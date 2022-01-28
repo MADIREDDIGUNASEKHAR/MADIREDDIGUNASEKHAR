@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.credly.com/users/guna-sekhar-madireddi](https://www.credly.com/users/guna-sekhar-madireddi)
 
-- 💬 Ask me about **C,DATA SCIENCE,CRYPTO**
+- 💬 Ask me about **C,PYTHON,CPP,DATA SCIENCE,CRYPTO**
 
 - 📫 How to reach me **mg5657@srmist.edu.in**
 
