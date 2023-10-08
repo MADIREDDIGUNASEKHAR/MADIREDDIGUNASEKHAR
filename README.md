@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madireddigunasekhar" alt="madireddigunasekhar" /></a> </p>
 
-- 🔭 I’m currently working on **DATA SCEINCE TOOLS**
+- 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **DATA SCIENCE**
-
-- 👯 I’m looking to collaborate on **AMAZON**
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://www.credly.com/users/guna-sekhar-madireddi](https://www.credly.com/users/guna-sekhar-madireddi)
 
-- 💬 Ask me about **C,PYTHON,CPP,DATA SCIENCE,CRYPTO**
+- 💬 Ask me about **C,PYTHON,FULL STACK,JAVA SCRIPT,REACT.JS,CRYPTO**
 
-- 📫 How to reach me **mg5657@srmist.edu.in**
+- 📫 How to reach me **gunasekhar281@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
