@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://www.credly.com/users/guna-sekhar-madireddi](https://www.credly.com/users/guna-sekhar-madireddi)
+- 👨‍💻 All of my Certifications are available at [https://www.credly.com/users/guna-sekhar-madireddi](https://www.credly.com/users/guna-sekhar-madireddi)
 
-- 💬 Ask me about **C,PYTHON,FULL STACK,JAVA SCRIPT,REACT.JS,CRYPTO**
+- 💬 Ask me about **Java,DSA,Oops,React.js,Node.js,JAVA SCRIPT,SQL,CRYPTO**
 
 - 📫 How to reach me **gunasekhar281@gmail.com**
 
